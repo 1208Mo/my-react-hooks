@@ -1,8 +1,10 @@
 ---
-title: 首页
+title: ZiHuan
 hero:
   
-  desc: React 业务 Hooks
+  desc: 🥰欢迎来访🥰
+  
+        
   actions:
     - text: 指南
       link: /guide
