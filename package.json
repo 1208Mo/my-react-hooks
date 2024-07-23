@@ -1,6 +1,6 @@
 {
   "name": "encode-hooks",
-  "description": "印客学院 React 业务 Hooks",
+  "description": "React 业务 Hooks",
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
