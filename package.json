@@ -82,6 +82,5 @@
       "pre-commit": "encode-fe-lint commit-file-scan",
       "commit-msg": "encode-fe-lint commit-msg-scan"
     }
-  },
-  "homepage":"https://1208Mo.github.io/my-react-hooks/"
+  }
 }
