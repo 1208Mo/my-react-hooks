@@ -6,7 +6,7 @@ export default {
     type: 'none',
     exclude: [],
   },
-  publicPath: '/encode-hooks/',
+  publicPath: '/my-react-hooks/',
   history: { type: 'hash' },
   extraBabelPlugins: [
     [
@@ -20,8 +20,8 @@ export default {
   ],
   title: 'my hooks',
   mode: 'site',
-  // favicon: '/encode-hooks/avatar.png',
-  // logo: '/encode-hooks/avatar.png',
+  favicon: '/encode-hooks/avatar.png',
+  logo: '/encode-hooks/avatar.png',
   dynamicImport: {},
   manifest: {},
   hash: true,
