@@ -9,7 +9,7 @@
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && pnpm run dev",
     "clean-dist": "rimraf 'packages/hooks/{lib,es,node_modules,dist}'",
     "clean": "pnpm run clean-dist && rimraf node_modules",
-    "dev": "dumi dev",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && dumi dev",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && pnpm -r --filter=./packages/* run build",
     "build:doc": "set NODE_OPTIONS=--openssl-legacy-provider && dumi build",
     "test": "jest",
