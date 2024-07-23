@@ -1,7 +1,7 @@
 {
   "name": "encode-hooks",
   "version": "0.1.0",
-  "description": "印客学院 React 业务 Hooks",
+  "description": "业务 Hooks",
   "keywords": [
     "encode",
     "react",
@@ -16,8 +16,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "repository": "https://github.com/encode-studio-fe/encode-hooks",
-  "homepage": "https://github.com/encode-studio-fe/encode-hooks",
+  "repository": "https://github.com/1208Mo/my-react-hooks",
+  "homepage": "https://github.com/1208Mo/my-react-hooks",
   "scripts": {
     "build": "gulp && webpack-cli"
   },
