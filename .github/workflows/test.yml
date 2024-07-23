@@ -20,8 +20,7 @@ jobs:
           npm i -g pnpm
           pnpm run init
         env:
-          NODE_OPTIONS: '--max_old_space_size=4096'
-          NODE_OPTIONS: '--openssl-legacy-provider'
+          NODE_OPTIONS: '--max_old_space_size=4096 --openssl-legacy-provider'
 
       - name: test
         run: |
