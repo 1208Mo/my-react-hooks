@@ -6,9 +6,7 @@ React 业务 Hooks
 
 ##  技术选型
 
-使用 Typescript 构建，提供完善的类型定义
-
-支持文档记录，支持 demo 演示
+### 编程语言 -- TypeScript
 
 ### 包管理工具 -- pnpm
 

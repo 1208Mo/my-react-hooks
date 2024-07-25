@@ -2,7 +2,7 @@
 title: ZiHuan
 hero:
   
-  desc: 🥰欢迎来访🥰
+  desc: 😎欢迎来访😎
   
         
   actions:

@@ -26,8 +26,8 @@ export default () => {
 
   return (
     <div ref={dragRef} style={{ display: 'flex' }}>
-      <img style={COMMON_STYLE} src="/logo.png" />
       <div style={COMMON_STYLE}>drag me</div>
+      <div style={COMMON_STYLE}>drag you</div>
     </div>
   );
 };
