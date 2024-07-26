@@ -4,7 +4,7 @@
  */
 
 import React, { useState } from 'react';
-import { useThrottle } from 'encode-hooks';
+import { useThrottle } from 'my-hooks';
 
 export default () => {
   const [value, setValue] = useState<string>();

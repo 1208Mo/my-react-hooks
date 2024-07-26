@@ -4,7 +4,7 @@
  */
 
 import React from 'react';
-import { useLocalStorageState } from 'encode-hooks';
+import { useLocalStorageState } from 'my-hooks';
 
 export default function () {
   const [message, setMessage] = useLocalStorageState<string | undefined>(

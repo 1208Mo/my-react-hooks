@@ -1,4 +1,4 @@
-import { useKeyPress } from 'encode-hooks';
+import { useKeyPress } from 'my-hooks';
 import React, { useState } from 'react';
 
 export default () => {

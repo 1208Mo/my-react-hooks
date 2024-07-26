@@ -4,7 +4,7 @@
  */
 
 import React, { useRef } from 'react';
-import { useInViewport } from 'encode-hooks';
+import { useInViewport } from 'my-hooks';
 
 export default () => {
   const ref = useRef(null);

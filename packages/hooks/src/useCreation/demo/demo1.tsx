@@ -4,7 +4,7 @@
  */
 
 import React, { useState } from 'react';
-import { useCreation } from 'encode-hooks';
+import { useCreation } from 'my-hooks';
 
 class Foo {
   constructor() {

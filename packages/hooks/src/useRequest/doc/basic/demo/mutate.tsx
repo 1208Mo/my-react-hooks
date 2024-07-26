@@ -4,7 +4,7 @@
 
 import { message } from 'antd';
 import React, { useState, useRef } from 'react';
-import { useRequest } from 'encode-hooks';
+import { useRequest } from 'my-hooks';
 import Mock from 'mockjs';
 
 function getUsername(): Promise<string> {

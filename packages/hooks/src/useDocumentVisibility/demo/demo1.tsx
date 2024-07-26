@@ -4,7 +4,7 @@
  */
 
 import React, { useEffect } from 'react';
-import { useDocumentVisibility } from 'encode-hooks';
+import { useDocumentVisibility } from 'my-hooks';
 
 export default () => {
   const documentVisibility = useDocumentVisibility();

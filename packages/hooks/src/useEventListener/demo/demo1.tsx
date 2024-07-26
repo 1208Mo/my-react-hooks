@@ -4,7 +4,7 @@
  */
 
 import React, { useState, useRef } from 'react';
-import { useEventListener } from 'encode-hooks';
+import { useEventListener } from 'my-hooks';
 
 export default () => {
   const [value, setValue] = useState(0);

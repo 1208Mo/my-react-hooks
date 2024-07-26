@@ -4,7 +4,7 @@
  */
 
 import React from 'react';
-import { useInViewport } from 'encode-hooks';
+import { useInViewport } from 'my-hooks';
 
 export default () => {
   const [inViewport, ratio] = useInViewport(() => document.getElementById('children'), {

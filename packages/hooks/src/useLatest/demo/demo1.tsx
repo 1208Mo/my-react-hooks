@@ -4,7 +4,7 @@
  */
 
 import React, { useState, useEffect } from 'react';
-import { useLatest } from 'encode-hooks';
+import { useLatest } from 'my-hooks';
 
 export default () => {
   const [count, setCount] = useState(0);
