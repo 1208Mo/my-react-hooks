@@ -20,8 +20,7 @@ export default {
   ],
   title: 'my hooks',
   mode: 'site',
-  favicon: '/encode-hooks/avatar.png',
-  logo: '/encode-hooks/avatar.png',
+  
   dynamicImport: {},
   manifest: {},
   hash: true,
